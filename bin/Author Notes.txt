@@ -1,0 +1,13 @@
+Files created by Abel Niwiński:
+
+main.c
+loadingMap.c   		loadingMap.h  		- Loads information from file
+AIgameplay.c 		AIgameplay.h		- Places penguin, creates and saves updated data in new file, prints nice map
+check.c			check.h			- Checks which phase should be conducted (Just so program can be used in loop), moves already existing penguins
+returnReaction.c	returnReaction.h	- Contains all debug message I used during development
+returnValues.h		structers.h		- Contains predefined return Values and structures I used
+
+The main problem of this program is that it needs a proper file
+While it doesn't have a problem reading a file which has spaces after a line but it has to have 
+one newline char after players and the first line should look like this "%c %c[\n]" Otherwise the program 
+will bug, there is one the files I used in testing.

@@ -1,0 +1,172 @@
+# depslib dependency file v1.0
+1579778441 source:d:\projekty\c tutorials\end\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<conio.h>
+	<dirent.h>
+	<ctype.h>
+	"loadingMap.h"
+	"AIgameplay.h"
+	"returnReaction.h"
+	"check.h"
+
+1579777059 source:d:\projekty\c tutorials\end\loadingmap.c
+	"loadingMap.h"
+	"returnReaction.h"
+
+1579761935 d:\projekty\c tutorials\end\loadingmap.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"structers.h"
+
+1579778227 source:d:\projekty\c tutorials\end\aigameplay.c
+	"AIgameplay.h"
+	<time.h>
+
+1579684704 source:d:\projekty\c tutorials\end\interactivegameplay.c
+	<stdio.h>
+	<stdlib.h>
+
+1579778801 d:\projekty\c tutorials\end\returnvalues.h
+
+1579684706 d:\projekty\c tutorials\end\returnreaction.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<conio.h>
+	<dirent.h>
+	<ctype.h>
+	"returnValues.h"
+
+1579778843 source:d:\projekty\c tutorials\end\returnreaction.c
+	"returnReaction.h"
+
+1579684702 d:\projekty\c tutorials\end\aigameplay.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"loadingMap.h"
+	"check.h"
+	"structers.h"
+
+1580378111 source:c:\all the shit\projects\end\aigameplay.c
+	"AIgameplay.h"
+	<time.h>
+
+1580372643 c:\all the shit\projects\end\aigameplay.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"loadingMap.h"
+	"check.h"
+	"structers.h"
+
+1580372643 c:\all the shit\projects\end\loadingmap.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"structers.h"
+
+1580372643 source:c:\all the shit\projects\end\interactivegameplay.c
+	<stdio.h>
+	<stdlib.h>
+
+1580377584 source:c:\all the shit\projects\end\loadingmap.c
+	"loadingMap.h"
+	"returnReaction.h"
+
+1580372643 c:\all the shit\projects\end\returnreaction.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<conio.h>
+	<dirent.h>
+	<ctype.h>
+	"returnValues.h"
+
+1580372643 c:\all the shit\projects\end\returnvalues.h
+
+1580372643 source:c:\all the shit\projects\end\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<conio.h>
+	<dirent.h>
+	<ctype.h>
+	"loadingMap.h"
+	"AIgameplay.h"
+	"returnReaction.h"
+	"check.h"
+
+1580376213 source:c:\all the shit\projects\end\returnreaction.c
+	"returnReaction.h"
+
+1579293372 d:\projekty\c tutorials\end\nextloads.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"AIgameplay.h"
+	"loadingMap.h"
+
+1579293717 d:\projekty\c tutorials\end\secret.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"AIgameplay.h"
+	"loadingMap.h"
+
+1579294276 source:d:\projekty\c tutorials\end\bools.c
+	"bools.h"
+
+1579294264 d:\projekty\c tutorials\end\bools.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"loadingMap.h"
+	"AIgameplay.h"
+
+1579765188 d:\projekty\c tutorials\end\check.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"loadingMap.h"
+	"AIgameplay.h"
+	"structers.h"
+	"returnReaction.h"
+
+1579766021 source:d:\projekty\c tutorials\end\check.c
+	"check.h"
+	<time.h>
+
+1579684706 d:\projekty\c tutorials\end\structers.h
+
+1580372643 c:\all the shit\projects\end\structers.h
+
+1580372643 c:\all the shit\projects\end\check.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"loadingMap.h"
+	"AIgameplay.h"
+	"structers.h"
+	"returnReaction.h"
+
+1580377342 source:c:\all the shit\projects\end\check.c
+	"check.h"
+	<time.h>
+
